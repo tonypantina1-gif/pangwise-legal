@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # Pangwise Privacy Policy
 
-_Last updated: 12 November 2026_
+_Last updated: 13 November 2026_
 
 **In short: Pangwise does not collect any data about you.** There is no account, no server of ours, no cloud sync, no analytics and no tracking. Everything you record, and everything Pangwise reads from your calendar, stays on your iPhone.
 
@@ -20,7 +20,7 @@ Nothing. We do not collect, receive, store, sell or share any personal data, hea
 Everything you add to Pangwise is stored only on your iPhone, in the app's own storage:
 
 - your profile: first name, goal, eating rhythm, usual window times and accent colour
-- your fasts: start and end times, plan and notes
+- the times your kitchen was closed each night, your planned eating hours and any notes
 - hunger waves you log: when they happened, how strong they were and whether you rode them out
 
 This information is not synced to iCloud or any other service, and we never receive a copy. It is protected by iOS encryption when your iPhone is locked. It may be included in your iPhone's own device backups (iCloud Backup or a computer backup) if you have those turned on; those backups are controlled by you and Apple, not by us.
@@ -43,7 +43,7 @@ These run on your iPhone; nothing is sent to us or to anyone else:
 
 - **Notifications:** reminders when your eating window closes (including when it moves around a calendar meal), "eat before your busy stretch" reminders, hunger-wave heads-ups, "goal reached" alerts and a reminder before a free trial ends are scheduled and delivered on your iPhone. There is no push notification server.
 - **Live Activities and Dynamic Island:** the hunger-wave countdown is shown by iOS on your Lock Screen and in the Dynamic Island. It is created and updated on your device, without any server.
-- **Siri, Shortcuts and Control Center:** phrases such as "I'm hungry in Pangwise" are handled by iOS and open the app or read your fast progress on your device. We receive nothing.
+- **Siri, Shortcuts and Control Center:** phrases such as "I'm hungry in Pangwise" are handled by iOS and open the app or read today's eating plan on your device. We receive nothing.
 - **Hunger forecast and insights:** your patterns are worked out on your iPhone from the waves you log.
 
 ## 5. Sharing and exporting
@@ -54,9 +54,9 @@ Your data leaves your iPhone only when you choose to share it, for example a CSV
 
 Pangwise Pro is sold through Apple's App Store. Apple processes the payment. We do not receive your name, payment details or Apple Account, only confirmation from Apple, on your device, that a subscription is active.
 
-## 7. Health information
+## 7. Not a health app
 
-Pangwise is a general wellness app, not a medical device. The information you record (fasting times and hunger) is personal, which is why it stays on your iPhone and is never collected by us. Pangwise does not read from or write to Apple Health.
+Pangwise is a meal-timing planner, not a medical device, and it gives no medical, nutrition or diet advice. The information you record (eating times and hunger check-ins) is personal, which is why it stays on your iPhone and is never collected by us. Pangwise does not read from or write to Apple Health.
 
 ## 8. Your rights
 

@@ -33,8 +33,8 @@ Open Settings in Pangwise and tap Restore purchases, using the same Apple Accoun
 **How do I cancel my subscription?**
 Subscriptions are managed by Apple: open the Settings app on your iPhone, tap your name, then Subscriptions.
 
-**Is fasting safe for me?**
-Pangwise is a wellness app, not medical advice. Check with your doctor before fasting, especially if you are pregnant or breastfeeding, have diabetes, take medication, are under 18 or have a history of eating disorders.
+**Is Pangwise medical or diet advice?**
+No. Pangwise is a meal-timing planner for general information only. It isn't medical, nutrition or diet advice, and eating hours are a preference, not a rule: eat whenever you need to. If you have a health condition, take medication, are pregnant or breastfeeding, or have or have had an eating disorder, talk to a doctor or dietitian before changing how you eat.
 
 ## Legal
 
