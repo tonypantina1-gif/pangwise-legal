@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # Pangwise Privacy Policy
 
-_Last updated: 11 November 2026_
+_Last updated: 12 November 2026_
 
 **In short: Pangwise does not collect any data about you.** There is no account, no server of ours, no cloud sync, no analytics and no tracking. Everything you record, and everything Pangwise reads from your calendar, stays on your iPhone.
 
@@ -19,9 +19,8 @@ Nothing. We do not collect, receive, store, sell or share any personal data, hea
 
 Everything you add to Pangwise is stored only on your iPhone, in the app's own storage:
 
-- your profile: first name, goal, fasting plan, usual start time, accent colour and weight unit
+- your profile: first name, goal, eating rhythm, usual window times and accent colour
 - your fasts: start and end times, plan and notes
-- weight entries you log
 - hunger waves you log: when they happened, how strong they were and whether you rode them out
 
 This information is not synced to iCloud or any other service, and we never receive a copy. It is protected by iOS encryption when your iPhone is locked. It may be included in your iPhone's own device backups (iCloud Backup or a computer backup) if you have those turned on; those backups are controlled by you and Apple, not by us.
@@ -30,7 +29,7 @@ If you delete the app, your Pangwise data is deleted with it, and we cannot reco
 
 ## 3. Your calendar (optional)
 
-Calendar access is **off unless you turn it on** with "Connect my calendar". When it is on, Pangwise reads the titles and times of your upcoming events on your iPhone to spot meals (such as dinners or brunches) and meetings, so it can plan your fasts and flag hunger waves that may land during an event.
+Calendar access is **off unless you turn it on** with "Plan my real day". When it is on, Pangwise reads the titles and times of your upcoming events on your iPhone to spot meals (such as dinners or brunches) and busy stretches of meetings, so it can plan when you eat, suggest eating before a busy stretch, and flag hunger that may land during an event. Until then, Pangwise shows an example day.
 
 - Events are read on your device only. They are never uploaded, shared or sent to us.
 - Pangwise does not save copies of your events; it reads them again when it needs to.
@@ -42,7 +41,7 @@ You can turn access off at any time in the iPhone **Settings app → Privacy & S
 
 These run on your iPhone; nothing is sent to us or to anyone else:
 
-- **Notifications:** reminders to start your fast (including when Life Fit moves it), hunger-wave heads-ups, "goal reached" alerts and a reminder before a free trial ends are scheduled and delivered on your iPhone. There is no push notification server.
+- **Notifications:** reminders when your eating window closes (including when it moves around a calendar meal), "eat before your busy stretch" reminders, hunger-wave heads-ups, "goal reached" alerts and a reminder before a free trial ends are scheduled and delivered on your iPhone. There is no push notification server.
 - **Live Activities and Dynamic Island:** the hunger-wave countdown is shown by iOS on your Lock Screen and in the Dynamic Island. It is created and updated on your device, without any server.
 - **Siri, Shortcuts and Control Center:** phrases such as "I'm hungry in Pangwise" are handled by iOS and open the app or read your fast progress on your device. We receive nothing.
 - **Hunger forecast and insights:** your patterns are worked out on your iPhone from the waves you log.
@@ -57,7 +56,7 @@ Pangwise Pro is sold through Apple's App Store. Apple processes the payment. We 
 
 ## 7. Health information
 
-Pangwise is a general wellness app, not a medical device. The information you record (fasting times, weight and hunger) is personal, which is why it stays on your iPhone and is never collected by us. Pangwise does not read from or write to Apple Health.
+Pangwise is a general wellness app, not a medical device. The information you record (fasting times and hunger) is personal, which is why it stays on your iPhone and is never collected by us. Pangwise does not read from or write to Apple Health.
 
 ## 8. Your rights
 

@@ -5,17 +5,17 @@ permalink: /terms/
 
 # Pangwise Terms of Use
 
-_Last updated: 11 November 2026_
+_Last updated: 12 November 2026_
 
 These terms apply to your use of the Pangwise app ("the app"), provided by Faton Pantina ("we"). They add to Apple's [Licensed Application End User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/), which also applies. If the two conflict, Apple's agreement takes priority. By using the app you agree to these terms.
 
 ## 1. What the app does
 
-Pangwise helps you plan and track intermittent fasts, plans them around meals in your calendar if you allow it, and coaches you through hunger with breathing guidance, a countdown and a forecast based on your own history.
+Pangwise plans when you eat around your day. If you allow it, it reads your calendar to set your eating window around meals, suggest eating before busy stretches, and forecast when hunger may hit. It also coaches you through hunger with breathing guidance and a countdown based on your own history.
 
 ## 2. Not medical advice
 
-Pangwise is for general wellness and information only. It is **not a medical device** and does not give medical advice, diagnosis or treatment. The body-stage timeline (for example ketosis or autophagy), hunger forecasts and other guidance are general estimates; your body may differ.
+Pangwise is for general wellness and information only. It is **not a medical device** and does not give medical advice, diagnosis or treatment. Eating windows, fuel-stop suggestions, hunger forecasts and other guidance are general estimates; your body and your day may differ.
 
 Talk to a doctor before you start fasting, and do not use Pangwise to fast, if you:
 
@@ -29,7 +29,7 @@ Stop fasting and get medical help if you feel faint, dizzy, unwell or confused. 
 
 ## 3. Accuracy
 
-Calendar meal detection works from event titles and can miss a meal or mistake an event for one. Fasting plans, hunger forecasts, wave lengths and stage timings depend on what you enter and on simplified rules, and may be wrong. You decide when to eat and when to fast.
+Calendar meal and busy-stretch detection works from event titles and times, and can miss a meal or a meeting, or mistake one event for another. Eating windows, fuel stops, hunger forecasts and wave lengths depend on what you enter and on simplified rules, and may be wrong. You decide when to eat and when to fast.
 
 ## 4. Your data
 

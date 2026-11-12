@@ -3,9 +3,9 @@ title: Pangwise
 permalink: /
 ---
 
-# Pangwise: Hunger Coach
+# Pangwise: Eat Around Your Day
 
-Pangwise is an intermittent fasting app that plans each fast around the meals in your calendar and coaches you through hunger waves, entirely on your own iPhone.
+Pangwise reads your calendar and plans when you eat: your eating window, when to eat before back-to-back meetings, and when hunger is likely to hit. Entirely on your own iPhone.
 
 - [Privacy Policy](privacy/)
 - [Terms of Use](terms/)
